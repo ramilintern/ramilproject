@@ -1,0 +1,11 @@
+using System;
+
+namespace git ptoject
+{
+class Program
+{
+void Main(string []args)
+
+
+}
+}
